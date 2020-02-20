@@ -33,6 +33,16 @@ Aceite de Chiles v1.
 
 TBD.
 
+Cocinando la Carne:
+| Proceso       | Tiempo       | Comments |
+| ------------- |-------------|-------------|
+| Salar          | 4 hrs      | Mantener en el refri/hielera. (Antes)        |
+| Aplicar Rub    | 2 min      | Despues de sacar del proceso de salado.  |
+| Cocinar Inversa| 20-30 min  | Hasta que de 110°F  checar con termometro en min 10, 15 y 20   |
+| Reservar*       | 10-60 min  | Envolver en aluminio y dejar en hielera para mantener su temperatura, mientras otra chimenea se prende  |
+| Preparar Chimenea| 10-15 min  | Prender otra Chimenea con carbon y esperar a que este lista para agregar al asador   |
+| Sellar Carne  | 4min     | Sellar 1-2min por lado, y agregar mantequilla   |
+| Reservar | 5-20 min  | Envolver en alumino los cortes y mantener en la hielera mientras se prepara los ingredientes del taco   |
 
 ## Tips
 * Hacer una tortilla torteada que se infle
